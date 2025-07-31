@@ -8,7 +8,7 @@ Transformo dados em decisões com propósito. Minha trajetória une experiência
 
 ## 💼 Sobre mim
 
-- 📊 +8 anos de atuação em finanças, contabilidade e performance no Brasil
+- 📊 +10 anos de atuação em finanças, contabilidade e performance no Brasil
 - 💡 Experiência em Customer Experience, Text Analytics e Voice of Customer
 - 🔎 Especialista em plataformas como **Medallia**, **Adobe Analytics**, **Looker**, **Snowflake** e **Excel avançado**
 - 🤖 Explorando IA aplicada a negócios e automações com LLMs
